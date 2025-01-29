@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter,ARCore,Unity,**
 
-- 💬 Ask me about **Java,Kotlin,Android**
+- 💬 Ask me about **Java,Kotlin,Android,Flutter,Rust,C# (.NET)**
 
 - 📫 How to reach me **msangh.devloper@gmail.com**
 
